@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "vue-loader": "15.0.0-beta.2",
+    "vue-loader": "git+https://github.com/Loilo/vue-loader.git#fix-1201",
     "vue-template-compiler": "^2.5.16",
     "webpack": "^4.2.0",
     "webpack-cli": "^2.0.13"
